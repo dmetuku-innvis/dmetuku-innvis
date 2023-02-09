@@ -2,9 +2,9 @@
 # Hi, I'm Denald!
 
 
-## 🚀 About Me
+## About Me
 I'm a Frontend Developer
 
 
-## 🛠 Skills
+## Skills
 undefined
